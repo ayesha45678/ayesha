@@ -1,0 +1,196 @@
+body {
+  background-color:white;
+}
+
+
+/* #box {
+  width: 850px;
+  height: 700px;
+  border-radius: 25px;
+  border: 40px solid darkblue;
+  position:absolute;
+  margin-top: 8px;
+margin-left: 160px; 
+}*/
+#heading {
+  color: white;
+  font-size: 75px;
+  position: absolute;
+  top: 20px;
+  right: 500px;
+
+}
+
+/* #small{
+  width: 450px;
+  height: 350px;
+  border-color: black;
+
+ }  */
+/* box for inline bahar ke liye  */
+.container {
+
+  background-color: lightcoral;
+  padding: 320px;
+  border: 55px solid pink;
+  /* margin change top right botom left */
+  margin: 0px 230px 0px 230px;
+
+
+}
+
+/* #mail{
+font-size: 30px;
+color: blue;
+position: absolute;
+top: 140px;
+left: 330px;} 
+  */
+
+/* .email {
+
+  width: 170px;
+  background-color: #fff;
+  padding: 30px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+}
+  .email.button{
+   height: 40px;
+   width: 100%;
+   position: relative;
+  }
+.button input{
+height: 100%;
+   width: 100%;
+   border: none;
+   font-size: 17px;
+   border-bottom: 2px solid silver;
+
+
+  }
+  button label{
+position: absolute;
+bottom: 10px;
+left: 0px;
+color: grey;
+pointer-events: none;
+
+
+  } */
+  /* .form{
+    position: relative;
+
+  }
+  .textbox{
+
+    border: 2px solid white;
+    border-radius: 5px;
+    outline: none;
+    background: none;
+    padding: 10px;
+    color: white;
+  }
+.form-lable{
+position:absolute;
+top: 0.6rem;
+left: 1.4rem;
+cursor: text;
+transition: top 200ms ease-in,left 200ms ease-in,font-size 200ms ease-in;
+}
+.textbox:focus{
+
+  border:2px solid #adffff;
+}
+.textbox:focus~.form-lable
+.textbox:not(:placeholder-shown).textbox:not(:focus)~.form-lable
+{
+
+  top: -0.3rem;
+  left: 0.5rem;
+  background: #262626;
+
+} */
+
+.textbox{
+
+  width: 600px ;
+  height: 10%;
+border: 10px lightcoral;
+font-size: 20px;
+color:lightcoral;
+background-color:white;
+position: absolute;
+margin-top: -550px;
+right: 400px;
+outline-color:pink;
+
+
+
+}
+#mail{
+font-size: 30px;
+color:white;
+position: absolute;
+margin-top: -590px;
+right: 920px;
+
+
+
+}
+#hidden{
+
+  width: 600px ;
+  height: 10%;
+border: 10px lightcoral;
+font-size: 20px;
+color: lightcoral;
+background-color:white;
+position: absolute;
+margin-top: -400px;
+right: 400px;
+outline-color: pink;
+}
+
+#pass{
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  margin-top: -440px;
+  right: 890px;
+
+}
+#button{
+
+  color:lightcoral;
+  background-color:white;
+  border: none;
+  height: 50px;
+  width: 300px;
+  font-size:30px;
+  position: absolute;
+  top: 500px;
+  left: 500px;
+}
+#account{
+font-size: 19px;
+position:absolute;
+top: 575px;
+left: 550px;
+
+
+}
+#reg{
+font-size: 19px;
+position:absolute;
+top: 575px;
+left: 720px;
+color: darkblue;
+
+}
+
+
+
+
+
+
+
