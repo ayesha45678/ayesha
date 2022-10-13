@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+
+<body>
+    <DIv>
+
+        <div id="box"></div>
+        <div class="container">
+            <h1 id="heading"> Please login</h1>
+            <!-- <p id="mail"> Email <input type="text" name="email" id="button"></p> -->
+            <!-- <form class="email">
+<label id=> Email</label>
+<input type="text">
+<input class="button"> -->
+
+
+
+        </div>
+        <div class="form">
+
+            <input type="text" name="emalil" class="textbox">
+            <H1 id="mail">Email </H1>
+        </div>
+        <DIV> <input type="password" name="" id="hidden">
+            <h2 id="pass">Passward </H2>
+        </DIV>
+        <div>
+            <button id="button">Login</button>
+        </div>
+        <div>
+            <p id="account">
+                don't have a account?
+            </p>
+
+        </div>
+        <div>
+            <p id="reg">
+                Register
+            </p>
+        </div>
+
+    </DIv>
+
+</body>
+
+</html>
